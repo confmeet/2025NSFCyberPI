@@ -1,6 +1,6 @@
 ---
 title: "2025 NSF Cyber PI Meeting"
-draft: true
+draft: false
 weight: 0
 headless: true
 ---
