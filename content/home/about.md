@@ -8,4 +8,3 @@ The 2025 National Science Foundation Cyber Principal Investigator Meeting, or 20
 
 
 We also encourage colleagues funded by the [Campus Cyberinfrastructure (CC*)](https://new.nsf.gov/funding/opportunities/cc-campus-cyberinfrastructure), other [Office of Advanced Cyberinfrastructure (OAC)](https://new.nsf.gov/cise/oac) programs, and [Computational Science and Data-enabled Engineering (CDS&E)](https://new.nsf.gov/funding/opportunities/cdse-computational-data-enabled-science-engineering) to join the event (up to our capacity).
-
