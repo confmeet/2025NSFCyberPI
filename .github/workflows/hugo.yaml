@@ -55,17 +55,33 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Build with Hugo
+      - name: Show Hugo version
+        run: hugo version
+      - name: List theme directory
+        run: ls -la themes/introduction
+      - name: Build with Hugo (verbose)
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
+          echo "=== Current directory structure ==="
+          tree -L 3
+          echo "=== Building site with verbose output ==="
           hugo \
+            -v \
             --gc \
             --minify \
             --cleanDestinationDir \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --printI18nWarnings \
+            --printPathWarnings \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Inspect built files
+        run: |
+          echo "=== Generated footer content ==="
+          grep -A 10 'footer' public/index.html
+          echo "=== Theme version check ==="
+          git submodule status
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
