@@ -19,9 +19,11 @@ Posters should be no larger than 4ft (vertically) by 3ft (horizontally), and
 should be thin and light enough to be pierced by a tack and affixed to a 
 cork board.
 
-Example posters for guidance:
-- Example 1 (Coming Soon)
-- Example 2 (Coming Soon)
+Previous program attendees have kindly offered to be examples to inspire 
+poster designs. 
+[Here](https://doi.org/10.6084/m9.figshare.26801080.v1) is an example of a
+poster from a Cyberinfrastructure participant.
+[Here](link) is an example of a poster from a CSSI participant.
 
 Presenters should print their posters and bring them to the conference, or 
 print them at a local vendor in time for the conference. 
