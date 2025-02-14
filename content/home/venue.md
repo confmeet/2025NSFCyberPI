@@ -3,13 +3,13 @@ title: "Venue & Hotel"
 weight: 2
 ---
 
-The program will take place at the [Name of the Venue](website).
+The program will take place at the [Sheraton Denver Downtown Hotel](
+    https://www.marriott.com/en-us/hotels/dends-sheraton-denver-downtown-hotel/overview/).
 
-The meeting hotel(s) are listed below. There is a limited number of rooms available at the discounted room block rate.
+A limited number of rooms are available at the discounted rate at the 
+Sheraton Denver Downtown Hotel.
+You can book a room using this [link](google.com), which will become active 
+April 1 and remain active until all rooms or late June.
 
-| Hotel | Room Block Booking Link |
-|:------|:------------------------|
-| [Name](Website) | [Link](link) is valid until DATE or until all rooms are booked. |
-| [Name](Website) | [Link](link) is valid until DATE or until all rooms are booked. |
-
-If rooms are no longer available through our room block(s), you should book your accommodation by following your institution's policies.
+If rooms are no longer available through our room block(s), you should book your 
+accommodation by following your institution's policies.

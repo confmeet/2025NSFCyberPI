@@ -5,4 +5,4 @@ weight: 0
 headless: true
 ---
 
-CITY, ST &middot; DATE to DATE, 2025
+DENVER, CO &middot; JULY 27 (Su) to JULY 29 (Tu), 2025
