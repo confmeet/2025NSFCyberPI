@@ -1,0 +1,41 @@
+---
+title: "Posters"
+weight: 3
+---
+
+Every project represented at the meeting must have a poster that is presented
+by a PI or senior personnel. 
+ 
+
+## Poster Titles and Abstracts
+
+Poster titles and abstracts must be submitted during registration.
+The registration links below will take you to a form and contain instructions
+for submitting titles and abstracts for a variety of situations.
+
+## Poster Creation and Printing
+
+Posters should be no larger than 4ft (vertically) by 3ft (horizontally), and 
+should be thin and light enough to be pierced by a tack and affixed to a 
+cork board.
+
+Example posters for guidance:
+- Example 1 (Coming Soon)
+- Example 2 (Coming Soon)
+
+Presenters should print their posters and bring them to the conference, or 
+print them at a local vendor in time for the conference. 
+We will not provide a list of local print vendors.
+
+## Digital Poster Submission for Archiving
+
+In addition to presenting a printed copy of the poster,
+posters must be submitted digitally.
+Instructions for digitally submitting and archiving posters, and 
+sharing DOIs with us are available [in this form]([link](https://docs.google.com/forms/d/e/1FAIpQLSclM1-WC8jkK-uxsIT-eZWdEs3j9MGCqov99YKdv1olvJzdPw/viewform?usp=header)). 
+
+We recommend using Google Chrome to upload posters as other browsers seem to
+have difficulty with FigShare. 
+
+Digital poster submissions to FigShare and completion of the linked form 
+must be done BEFORE the meeting.
