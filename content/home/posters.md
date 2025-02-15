@@ -34,7 +34,7 @@ We will not provide a list of local print vendors.
 In addition to presenting a printed copy of the poster,
 posters must be submitted digitally.
 Instructions for digitally submitting and archiving posters, and 
-sharing DOIs with us are available [in this form]([link](https://docs.google.com/forms/d/e/1FAIpQLSclM1-WC8jkK-uxsIT-eZWdEs3j9MGCqov99YKdv1olvJzdPw/viewform?usp=header)). 
+sharing DOIs with us are available [in this form](https://docs.google.com/forms/d/e/1FAIpQLSd7Gy6FTH5BPS4UHxu50EMOSrNyyIFOKHm4hA93qkUgdvbAjg/viewform?usp=header). 
 
 We recommend using Google Chrome to upload posters as other browsers seem to
 have difficulty with FigShare. 
