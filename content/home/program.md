@@ -6,8 +6,7 @@ weight: 4
 A tentative program is below. 
 All times are local to the event location. 
 All events take place at the venue. 
-
-Breakfast and lunches are included in the program.
+Breakfasts and lunches are included in the program.
 Receptions will have a variety of food items and non-alcoholic drinks available.
 Alcoholic drinks may be made available at receptions.
 
