@@ -1,5 +1,5 @@
 ---
-title: "2025 NSF Cyber PI Meeting"
+title: "2025 NSF CSSI/Cybertraining/SCIPE PI Meeting"
 draft: false
 weight: 0
 headless: true
