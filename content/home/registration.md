@@ -3,7 +3,9 @@ title: "Registration"
 weight: 5
 ---
 
-Per NSF requirements, one PI or senior personnel from a CSSI, CyberTraining or SCIPE  project should attend the meeting.  Note, only one PI or senior personnel from a collaborative project needs to attend the meeting.
+Per NSF requirements, one PI or senior personnel from a CSSI, CyberTraining,
+SCIPE, CC*, or CICI project should attend the meeting.  Note, only one PI or senior personnel
+from a collaborative project needs to attend the meeting.
 The registration form will ask you to submit titles and abstracts for the posters
 that you will present. Instructions are included in the registration forms.
 
