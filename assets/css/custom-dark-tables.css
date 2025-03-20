@@ -1,0 +1,55 @@
+/* Dark mode table styles override */
+@media (prefers-color-scheme: dark) {
+  /* General table styles */
+  .markdown table,
+  .content table,
+  table.table {
+    border-color: rgba(255, 255, 255, 0.15) !important;
+  }
+
+  .markdown table td,
+  .markdown table th,
+  .content table td,
+  .content table th,
+  table.table td,
+  table.table th {
+    background-color: rgba(70, 70, 70, 0.7) !important;
+    border-color: rgba(255, 255, 255, 0.15) !important;
+    color: #ffffff !important;
+  }
+
+  .markdown table tbody tr:nth-child(odd) td,
+  .markdown table tbody tr:nth-child(odd) th,
+  .content table tbody tr:nth-child(odd) td,
+  .content table tbody tr:nth-child(odd) th,
+  table.table tbody tr:nth-child(odd) td,
+  table.table tbody tr:nth-child(odd) th {
+    background-color: rgba(55, 55, 55, 0.8) !important;
+  }
+
+  .markdown table tbody tr:nth-child(even) td,
+  .markdown table tbody tr:nth-child(even) th,
+  .content table tbody tr:nth-child(even) td,
+  .content table tbody tr:nth-child(even) th,
+  table.table tbody tr:nth-child(even) td,
+  table.table tbody tr:nth-child(even) th {
+    background-color: rgba(70, 70, 70, 0.7) !important;
+  }
+
+  /* Direct override for Bulma tables */
+  .table {
+    background-color: transparent !important;
+    color: #ffffff !important;
+  }
+
+  .table td,
+  .table th {
+    color: #ffffff !important;
+    border-color: rgba(255, 255, 255, 0.15) !important;
+  }
+
+  .table thead td,
+  .table thead th {
+    color: #ffffff !important;
+  }
+}
