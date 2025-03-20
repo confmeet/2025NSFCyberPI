@@ -1,0 +1,5 @@
+{{ partial "introduction/head.html" . }}
+
+<!-- Custom CSS overrides -->
+{{ $customCSS := resources.Get "css/custom.css" | minify }}
+<link rel="stylesheet" href="{{ $customCSS.Permalink }}">

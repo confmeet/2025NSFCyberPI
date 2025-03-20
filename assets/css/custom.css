@@ -1,0 +1,43 @@
+/* Dark mode table styles override */
+@media (prefers-color-scheme: dark) {
+  .markdown table {
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .markdown table td,
+  .markdown table th {
+    background-color: rgba(70, 70, 70, 0.7);
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .markdown table tbody tr:nth-child(odd) td,
+  .markdown table tbody tr:nth-child(odd) th {
+    background-color: rgba(55, 55, 55, 0.8);
+  }
+
+  .markdown table tbody tr:nth-child(even) td,
+  .markdown table tbody tr:nth-child(even) th {
+    background-color: rgba(70, 70, 70, 0.7);
+  }
+}
+
+/* Add the same override for the explicit dark theme setting */
+body.dark-mode .markdown table {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+body.dark-mode .markdown table td,
+body.dark-mode .markdown table th {
+  background-color: rgba(70, 70, 70, 0.7);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+body.dark-mode .markdown table tbody tr:nth-child(odd) td,
+body.dark-mode .markdown table tbody tr:nth-child(odd) th {
+  background-color: rgba(55, 55, 55, 0.8);
+}
+
+body.dark-mode .markdown table tbody tr:nth-child(even) td,
+body.dark-mode .markdown table tbody tr:nth-child(even) th {
+  background-color: rgba(70, 70, 70, 0.7);
+}
