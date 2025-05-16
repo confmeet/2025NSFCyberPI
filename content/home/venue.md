@@ -8,7 +8,8 @@ The program will take place at the [Sheraton Denver Downtown Hotel](
 A limited number of rooms are available at the discounted rate at the 
 Sheraton Denver Downtown Hotel.
 
-You can book a room using this [link](https://book.passkey.com/go/NSFAttendees), which will remain 
+**Hotel Booking:** Please use this [link](https://book.passkey.com/go/NSFAttendees) to book a room.
+This link will remain 
 active until all rooms are booked or late June.
-If rooms are no longer available through our room block(s), you should book your 
+If rooms are no longer available through our room block, you should book your 
 accommodation by following your institution's policies.
