@@ -10,6 +10,8 @@ A PI or senior personnel can represent multiple projects.
 The registration form will ask you to submit titles and abstracts for the posters
 that you will present. Instructions are included in the registration forms.
 
+**Please print the last page of the registration confirmation as a confirmation email will not be sent.**
+
 | Registration Group | Close Date | Link |
 |:------|:-----------|:-----|
 |CSSI, Cybertraining, SCIPE, CC* or CICI PIs and Senior Personnel | May 29 | Use this [registration link](https://www.cavs.msstate.edu/conferences/2025NSFCyberPI/register/). There is a $150 fee. If at least one of your award numbers do not match a CSSI, Cybertraining, SCIPE, CC* or CICI award, then we will refund your registration fee less any processing costs.|
