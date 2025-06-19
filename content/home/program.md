@@ -36,7 +36,7 @@ Alcoholic drinks may be made available at receptions.
 | Time | Event | Details |
 |:-----|:------|:---------|
 | 8a to 9a | Breakfast | **Location:** Grand Ballroom I |
-| 9a to 9:30a | Plenary | **Speaker:** Dr. Kyle Chard [(Bio)]({{< ref "speakers/chard/index.md">}}) **Title:** Globus as a Case Study in Sustainable Research Software Development [(Abstract)]({{< ref "speakers/chard/index.md">}}) <br> **Location:** Grand Ballroom II |
+| 9a to 9:30a | Plenary | **Speaker:** Dr. Kyle Chard [(Bio)]({{< ref "speakers/chard/index.md">}}) <br> **Title:** Globus as a Case Study in Sustainable Research Software Development [(Abstract)]({{< ref "speakers/chard/index.md">}}) <br> **Location:** Grand Ballroom II |
 | 9:30a to 10:30a | Breakout report-outs and discussion | **Location:** Grand Ballroom II|
 | 10:45a to 12:15p | Poster Session IV, Coffee | **Location:** South Convention Lobby |
 |                  | NSF Office Hours | Scheduling Link (TBA), in parallel with Poster Session IV <br> **Location:** TBA |
