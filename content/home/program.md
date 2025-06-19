@@ -21,7 +21,7 @@ Alcoholic drinks may be made available at receptions.
 | Time | Event | Details |
 |:-----|:------|:---------|
 | 8a to 8:45a | Registration, badging, breakfast | **Location:** Grand Ballroom I |
-| 8:45a to 9a | Orientation for new attendees and opening remarks | **Location:** Grand Ballroom II |
+| 8:45a to 9a | Orientation, opening remarks | **Location:** Grand Ballroom II |
 | 9a to 9:30a | Keynote | **Speaker:** Dr. Katie Antypas [(Bio)]({{< ref "speakers/antypas/index.md">}}) <br> **Title:** Advancing Innovation and Discovery through an Integrated Cyberinfrastructure <br> **Location:** Grand Ballroom II|
 | 9:30a to 10a | Plenary | **Speaker:** Dr. Rudi Eigenmann [(Bio)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Title:** TBA [(Abstract)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Location:** Grand Ballroom II|
 | 10:15a to 11:45a | Poster Session I, Coffee | **Location:** South Convention Lobby |
