@@ -50,3 +50,8 @@ theme = 'introduction'
 [taxonomies]
   tag = "tags"
   series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
