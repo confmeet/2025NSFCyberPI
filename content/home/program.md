@@ -14,15 +14,15 @@ Alcoholic drinks may be made available at receptions.
 
 | Time | Event | Details |
 |:-----|:------|:---------|
-| 6p to 8p | Welcome reception | Room TBA |
+| 6p to 8p | (Tentative) Welcome reception | **Location:** South Convention Lobby |
 
 ### Monday
 
 | Time | Event | Details |
 |:-----|:------|:---------|
-| 8a to 8:45a | Registration, badging, breakfast | Room TBA |
-| 8:45a to 9a | Orientation for new attendees and opening remarks | Room TBA |
-| 9a to 10a | Keynote | TBA |
+| 8a to 8:45a | Registration, badging, breakfast | **Location:** Grand Ballroom I |
+| 8:45a to 9a | Orientation for new attendees and opening remarks | **Location:** Grand Ballroom II |
+| 9a to 9:30a | Keynote | **Speaker:** Dr. Katie Antypas <br> **Title:** Advancing Innovation and Discovery through an Integrated Cyberinfrastructure <br> [Additional details.]({{< ref "speakers/antypas/index.md">}}) |
 | 10:15a to 11:45a | Poster Session I, Coffee | Room TBA |
 | 11:45a to 1p | Lunch | Room TBA | 
 | 1p to 2:30p | Poster Session II, Coffee | Room TBA |
