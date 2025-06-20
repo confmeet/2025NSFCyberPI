@@ -23,7 +23,7 @@ Alcoholic drinks may be made available at receptions.
 | 8a to 8:45a | Registration, badging, breakfast | **Location:** Grand Ballroom I |
 | 8:45a to 9a | Orientation, opening remarks | **Location:** Grand Ballroom II |
 | 9a to 9:30a | Keynote | **Speaker:** Dr. Katie Antypas [(Bio)]({{< ref "speakers/antypas/index.md">}}) <br> **Title:** Advancing Innovation and Discovery through an Integrated Cyberinfrastructure <br> **Location:** Grand Ballroom II|
-| 9:30a to 10a | Plenary | **Speaker:** Dr. Rudi Eigenmann [(Bio)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Title:** TBA [(Abstract)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Location:** Grand Ballroom II|
+| 9:30a to 10a | Plenary | **Speaker:** Dr. Rudi Eigenmann [(Bio)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Title:** Developing an RSE Workforce for Accelerating Computational, Data, and AI Applications  [(Abstract)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Location:** Grand Ballroom II|
 | 10:15a to 11:45a | Poster Session I, Coffee | **Location:** South Convention Lobby |
 | 11:45a to 1p | Lunch | **Location:** Grand Ballroom I | 
 | 1p to 2:30p | Poster Session II, Coffee | **Location:** South Convention Lobby |
