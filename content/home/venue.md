@@ -10,11 +10,11 @@ The program will take place at the [Sheraton Denver Downtown Hotel](
 This link will remain active until all rooms are booked or 11p MST on June 26. 
 Availability is listed below.
 
-|Date | Rooms Available (as of Jun 19, 12p ET) |
+|Date | Rooms Available (as of Jun 25, 12p ET) |
 |:----|:----------------------------:|
-|July 27 | 75 |
-|July 28 | 75 |
-|July 29 | 17 |
+|July 27 | 54 |
+|July 28 | 54 |
+|July 29 | 15 |
 
 If rooms are no longer available through our room block, you should book your 
 accommodation by following your institution's policies.
