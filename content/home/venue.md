@@ -7,7 +7,8 @@ The program will take place at the [Sheraton Denver Downtown Hotel](
     https://www.marriott.com/en-us/hotels/dends-sheraton-denver-downtown-hotel/overview/).
 
 **Hotel Booking:** Please use this [link](https://book.passkey.com/go/NSFAttendees) to book a room.
-This link will remain active until all rooms are booked or 11p MST on June 26. 
+This link will remain active until all rooms are booked or 11p MST on **July 04** (the hotel has
+extended the block from June 26). 
 Availability is listed below.
 
 |Date | Rooms Available (as of Jun 25, 12p ET) |
