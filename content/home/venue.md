@@ -11,11 +11,11 @@ This link will remain active until all rooms are booked or 11p MST on **July 04*
 extended the block from June 26). 
 Availability is listed below.
 
-|Date | Rooms Available (as of Jun 25, 12p ET) |
+|Date | Rooms Available (as of Jun 26, 9a ET) |
 |:----|:----------------------------:|
-|July 27 | 54 |
-|July 28 | 54 |
-|July 29 | 15 |
+|July 27 | 45 |
+|July 28 | 45 |
+|July 29 | 14 |
 
 If rooms are no longer available through our room block, you should book your 
 accommodation by following your institution's policies.
