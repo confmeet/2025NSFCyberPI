@@ -28,7 +28,7 @@ Alcoholic drinks may be made available at receptions.
 | 11:45a to 1p | Lunch | **Location:** Grand Ballroom I | 
 | 1p to 2:30p | Poster Session II, Coffee | **Location:** South Convention Lobby |
 |             | NSF Office Hours | Scheduling Link (TBA), in parallel with Poster Session II <br> **Location:** TBA |
-| 2:45p to 4:15p | Breakout Sessions & Write-Ups | **Locations:** Tower Courts A, B, C, D; Windows Room; Grand Ballroom II |
+| 2:45p to 4:15p | Breakout Sessions & Write-Ups | **Topic:** Continuity in Cybertraining <br> **Location:** Tower Courts A <br><br> **Topic:** Developing Industry Partnerships and Consortia for Sustainable Projects <br> **Location:** Tower Courts B <br><br> **Topic:** Interactions of CSSI/Cybertraining/SCIPE with NAIRR <br> **Location:** Tower Courts C <br><br> **Topic:** Leveraging AI in a Productive and Research-enhancing Manner <br> **Location:** Tower Courts D <br><br> **Topic:** Open Science and Responsible AI <br> **Location:** Windows Room <br><br> **Topic:** Reflections on Funding Directions <br> **Location:** Grand Ballroom II|
 | 4:30p to 6p | Poster Session III and Main reception | **Location:** South Convention Lobby |
 
 ### Tuesday
