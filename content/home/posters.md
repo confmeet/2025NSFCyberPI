@@ -37,3 +37,8 @@ We recommend using Google Chrome to upload posters as other browsers seem to
 have difficulty with FigShare.
 Digital poster submissions to FigShare and completion of the linked form
 must be done BEFORE the meeting.
+
+## Session Assignments
+
+Please see this [spreadsheet](https://docs.google.com/spreadsheets/d/1i93oZSG5TXy_KMX9HN9DngYTCN54TODC/edit?usp=sharing&ouid=114065531190318461273&rtpof=true&sd=true) for the most up-to-date poster session 
+assignments.
