@@ -3,12 +3,14 @@ title: "Program"
 weight: 4
 ---
 
-A tentative program is below. 
+The program is below. 
 All times are local to the event location. 
 All events take place at the venue. 
 Breakfasts and lunches are included in the program.
 Receptions will have a variety of food items and non-alcoholic drinks available.
-Alcoholic drinks may be made available at receptions.
+
+T. Andrew Manning has kindly created and shared a calendar file for the program.
+You can download it [here](program.ics). 
 
 ### Sunday
 
