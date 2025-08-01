@@ -1,13 +1,8 @@
 ---
 title: "Childcare Resources"
-weight: 4
+weight: 6
 ---
 
-Below is a list of childcare and family care resources in the vicinity of the venue/hotel. The costs of using these resources can be subsidized or reimbursed based on the availability of funds. Please email [Shirley Moore](mailto:svmoore@utep.edu) to find out additional details.
-
-| Name | Website | 
-|:-----|:--------|
-| Seeking Sitters | https://www.seekingsitters.com |
-| ABC Nanny | https://abcnannies.com |
-
+As the event has concluded, we no longer provide a list of childcare resources
+that we subsidize. 
  

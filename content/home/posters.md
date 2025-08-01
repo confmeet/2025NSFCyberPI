@@ -1,6 +1,6 @@
 ---
 title: "Posters"
-weight: 3
+weight: 4
 ---
 
 Every project represented at the meeting must have a poster that is presented

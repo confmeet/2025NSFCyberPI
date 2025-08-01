@@ -6,3 +6,4 @@ headless: true
 ---
 
 DENVER, CO &middot; JULY 27 (Su) to JULY 29 (Tu), 2025
+# Concluded
