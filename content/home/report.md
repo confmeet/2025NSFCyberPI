@@ -18,3 +18,4 @@ Some related reports are included here.
 |:--------|:-----------|
 | 2025 | Whitehouse's AI Action Plan [(pdf)](2025_AI_ActionPlan.pdf). |
 | 2025 | NAIRR Pilot Inaugural Annual Meeting Report [(doi)](https://doi.org/10.5281/zenodo.15263283).|
+| 2023 | NIST AI Risk Management Framework [(doi)](https://doi.org/10.6028/NIST.AI.100-1) [(pdf)](2023_NISTAIRMF.pdf). |
