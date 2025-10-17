@@ -24,7 +24,7 @@ You can download it [here](program.ics).
 |:-----|:------|:---------|
 | 8a to 8:45a | Registration, badging, breakfast | **Location:** Grand Ballroom I |
 | 8:45a to 9a | Orientation, opening remarks | **Speaker:** Dr. Vivak Patel [(Website)](vivakpatel.org) <br> **Location:** Grand Ballroom II <br> [Slides](Patel_OpeningRemarks.pdf) |
-| 9a to 9:30a | Keynote | **Speaker:** Dr. Katie Antypas [(Bio)]({{< ref "speakers/antypas/index.md">}}) <br> **Title:** Advancing Innovation and Discovery through an Integrated Cyberinfrastructure <br> **Location:** Grand Ballroom II|
+| 9a to 9:30a | Keynote | **Speaker:** Dir. Katie Antypas [(Bio)]({{< ref "speakers/antypas/index.md">}}) <br> **Title:** Advancing Innovation and Discovery through an Integrated Cyberinfrastructure <br> **Location:** Grand Ballroom II|
 | 9:30a to 10a | Plenary | **Speaker:** Dr. Rudi Eigenmann [(Bio)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Title:** Developing an RSE Workforce for Accelerating Computational, Data, and AI Applications  [(Abstract)]({{< ref "speakers/eigenmann/index.md">}}) <br> **Location:** Grand Ballroom II <br> [Slides](Eigenmann_DevelopingRSE.pdf)|
 | 10:15a to 11:45a | Poster Session I, Coffee | **Location:** South Convention Lobby <br> **Assignments:** [Spreadsheet](https://docs.google.com/spreadsheets/d/1i93oZSG5TXy_KMX9HN9DngYTCN54TODC/edit?usp=sharing&ouid=114065531190318461273&rtpof=true&sd=true) |
 | 11:45a to 1p | Lunch | **Location:** Grand Ballroom I | 
